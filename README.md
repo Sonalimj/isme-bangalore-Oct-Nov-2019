@@ -8,6 +8,7 @@
 ## My Blog
 
 Think ML - https://goodboyanush.github.io/
+machine learning  -  https://medium.com/@sonalij663/intro-to-machine-learning-ca82305e6bab
 
 ## Course Overview
 
