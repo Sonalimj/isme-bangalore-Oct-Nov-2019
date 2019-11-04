@@ -6,12 +6,12 @@
   - **Who**: Anush Sankaran
 
 ## My Blog
+machine learning- https://medium.com/@sonalij663/what-is-machine-learning-b40dadd5fb87
+https://medium.com/@sonalij663/regression-concept-in-machine-learning-296223a7af42
 
-Think ML - https://goodboyanush.github.io/
 
-machine laerning- https://medium.com/@sonalij663/intro-to-machine-learning-ca82305e6bab
-
-## Course Overview
+## Coursehttps://medium.com/@sonalij663/regression-concept-in-machine-learning-296223a7af42
+Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
 |-----------------------------|:---------------------------------------------------------------------------:|--------|-------|
