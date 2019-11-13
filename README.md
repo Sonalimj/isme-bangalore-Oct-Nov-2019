@@ -5,6 +5,8 @@
   - **When**: Oct/Nov 2019
   - **Who**: Anush Sankaran
 
+##Midsem assignment:
+https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task
 ## My Blog
 
 Think ML - https://goodboyanush.github.io/
