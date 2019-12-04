@@ -15,7 +15,6 @@ https://medium.com/@sonalij663/what-is-kernel-tricks-bb176291e60f
 https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task
 
 
-## Coursehttps://medium.com/@sonalij663/regression-concept-in-machine-learning-296223a7af42
 Overview
 
 | Date                        |                                    Topic                                    | Slides | Notes |
