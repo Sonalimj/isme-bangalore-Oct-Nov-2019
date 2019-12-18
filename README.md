@@ -13,7 +13,7 @@ https://medium.com/@sonalij663/what-is-kernel-tricks-bb176291e60f
 https://medium.com/@sonalij663/regression-neural-network-bae96718d249
 
 #midsem assignment
-https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task
+https://github.com/Sonalimj/ML_Sonali_181141_midesem_Endterm-task/blob/master/Autouniv_dataset_181141_Sonali.ipynb
 https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task/blob/master/Autouniv%20note.docx    ->Report of Auto_univ
 
 Endterm project
