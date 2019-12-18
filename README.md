@@ -10,10 +10,15 @@ machine learning- https://medium.com/@sonalij663/what-is-machine-learning-b40dad
 https://medium.com/@sonalij663/regression-concept-in-machine-learning-296223a7af42
 https://medium.com/@sonalij663/building-the-ml-mindset-in-business-179324897a34
 https://medium.com/@sonalij663/what-is-kernel-tricks-bb176291e60f
+https://medium.com/@sonalij663/regression-neural-network-bae96718d249
 
 #midsem assignment
 https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task
+https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task/blob/master/Autouniv%20note.docx    ->Report of Auto_univ
 
+Endterm project
+https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task/blob/master/jungle_chess_ML_Endterm.ipynb
+https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task/blob/master/Endterm%20project%20note.docx   ->Report of Endterm project
 
 Overview
 
