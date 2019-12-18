@@ -19,7 +19,7 @@ https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task/blob/master/Autou
 Endterm project
 https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task/blob/master/jungle_chess_ML_Endterm.ipynb
 https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task/blob/master/Jungle_chess_Endterm%20project%20note.docx  ->Report of Endterm project
-https://github.com/Sonalimj/Autouniv_Sonali_181141_midsem_task
+https://github.com/Sonalimj/ML_Sonali_181141_midesem_Endterm-task
 
 Overview
 
