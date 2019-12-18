@@ -10,6 +10,7 @@ machine learning- https://medium.com/@sonalij663/what-is-machine-learning-b40dad
 https://medium.com/@sonalij663/regression-concept-in-machine-learning-296223a7af42
 https://medium.com/@sonalij663/building-the-ml-mindset-in-business-179324897a34
 https://medium.com/@sonalij663/what-is-kernel-tricks-bb176291e60f
+
 https://medium.com/@sonalij663/regression-neural-network-bae96718d249
 
 #midsem assignment
